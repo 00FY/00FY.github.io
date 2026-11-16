@@ -1,5 +1,5 @@
-:HL["/_next/static/css/6cd1e3f9707d39d5.css","style"]
+:HL["/_next/static/css/03a6569820ba0a08.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"actiongate","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"ou6hYvJKv8QNNEV9MoO_z","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"M1O6Qzlz3ifX-0_6q24GV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
